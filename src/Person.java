@@ -1,7 +1,7 @@
-public class Person {
+public class Dog {
 	public static void main(String[] arg) {
-		String name = "Katarina Sandart";
-		int age = 27;
+		String name = "Lassie";
+		int age = 20;
 	}
 }
 
