@@ -3,6 +3,7 @@ public class Dog {
 		String name = "Katarina Sandart";
 		int age = 27;
 		String city = "Stockholm";
+		String animal = "Hund";
 	}
 }
 
